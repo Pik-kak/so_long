@@ -13,3 +13,5 @@ chosing the shortest possible route.
 6. The map has to be constructed with 3 components: walls, collectibles, and free
 space.
 7. The map must be rectangular and closed/surrounded by walls.
+8. The program takes as parameter a map description file ending with the .ber
+extension. (Eg. ./so_long map1.ber)
